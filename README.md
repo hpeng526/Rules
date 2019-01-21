@@ -1,6 +1,4 @@
-ad free hosts
+Rules
 
-----
-
-* dnsmasq adbhosts
-* anyflow chosts.conf
+---
+source from https://github.com/lhie1/Rules
